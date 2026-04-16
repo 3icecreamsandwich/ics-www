@@ -76,7 +76,7 @@
                             <h3 class="text-2xl mb-3 text-[#FFECE2] fond-def font-medium">
                                 Fünd
                             </h3>
-                            <p class="text-[#FFCBAE] mb-4 fond-def font-medium"">Coming soon!</p>
+                            <p class="text-[#FFCBAE] mb-4 fond-def font-medium">Coming soon!</p>
                         </div>
                         <img src="" class="scale-[0.6] -mr-3" />
                     </div>
