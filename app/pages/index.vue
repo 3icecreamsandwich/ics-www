@@ -29,8 +29,8 @@
             </section>
 
             <section id="buymeacoffee" class="flex flex-col">
-                <a href="https://buymeacoffee.com/"
-                    ><img src="/buymeacoffee.svg" class="mx-auto scale-[0.75]"
+                <a href="https://buymeacoffee.com/">
+                    <img src="/buymeacoffee.svg" class="mx-auto scale-[0.75]"
                 /></a>
             </section>
 
