@@ -16,10 +16,10 @@
                     software to help with our and hopefully your annoyances. And
                     this all began with one problem...
                     <br /><br />
-                    Our classes often use Quizlet. While it is great for
-                    studying, it has so many ads and a lot of useful features
-                    are limited in its free plan. So, Xun (founder) had the
-                    bright idea to make ourselves an open source flashcard app.
+                    Our classes often use the regular studying apps for review.
+                    While they're great for studying, they have many ads and a
+                    lot of useful features are limited in its free plan. So, we
+                    decided to make ourselves an open source flashcard app.
                     <br /><br />
                     Therefore, after some collaboration challenges, we started
                     working on it. Now, Tracer is in alpha and we’re actively
@@ -56,38 +56,6 @@
                             </p>
                         </div>
                         <img src="/tracer.png" class="scale-[0.6] -mr-3" />
-                    </div>
-
-                    <div
-                        class="bg-[#933500] rounded-3xl shadow-lg flex flex-row items-center justify-between"
-                    >
-                        <div class="pl-5">
-                            <h3
-                                class="text-2xl mb-3 text-[#FFECE2] fond-def font-medium"
-                            >
-                                Seaport
-                            </h3>
-                            <p class="text-[#FFCBAE] mb-4 fond-def font-medium">
-                                Coming soon!
-                            </p>
-                        </div>
-                        <img src="" class="scale-[0.6] -mr-3" />
-                    </div>
-
-                    <div
-                        class="bg-[#933500] rounded-3xl shadow-lg flex flex-row items-center justify-between"
-                    >
-                        <div class="pl-5">
-                            <h3
-                                class="text-2xl mb-3 text-[#FFECE2] fond-def font-medium"
-                            >
-                                Fünd
-                            </h3>
-                            <p class="text-[#FFCBAE] mb-4 fond-def font-medium">
-                                Coming soon!
-                            </p>
-                        </div>
-                        <img src="" class="scale-[0.6] -mr-3" />
                     </div>
                 </div>
             </section>
