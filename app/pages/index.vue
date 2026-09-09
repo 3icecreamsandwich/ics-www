@@ -5,7 +5,7 @@
             <h1
                 class="text-[#933500] mt-[clamp(1rem,38vh,8rem)] mb-[clamp(1rem,25vh,16rem)] max-w-6xl text-[clamp(3rem,5.5vw,8rem)] font-bold font-quasititle text-center"
             >
-                Just 3 guys making software
+                Just 4 guys making software
             </h1>
 
             <section id="about-us">
