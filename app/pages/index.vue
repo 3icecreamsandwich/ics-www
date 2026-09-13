@@ -12,7 +12,7 @@
                 <p
                     class="text-center mt-32 mb-[clamp(1rem,8vh,3.75rem)] mx-auto max-w-2xl w-[60vw] text-[clamp(1rem,2.5vw,3rem)] font-def text-[#3E312D]"
                 >
-                    Hi 👋, we’re three high school students making open source
+                    Hi 👋, we’re four students making open source
                     software to help with our and hopefully your annoyances. And
                     this all began with one problem...
                     <br /><br />
